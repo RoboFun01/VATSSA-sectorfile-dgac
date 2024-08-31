@@ -1,0 +1,8 @@
+==== Togo Airports ====
+
+^ ICAO      ^ Name          ^ City          ^ Status        ^ Remarks ^
+| [[DXXX]]  | Name          | City          | In Development             | - |
+
+
+
+{{page>dx-footer#Togo}}

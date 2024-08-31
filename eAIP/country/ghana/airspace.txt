@@ -1,0 +1,7 @@
+==== Ghana Airspace ====
+
+^ ICAO  ^ Name      ^ SSA Code  ^ Type    ^ Remarks ^
+| DGAC  | Accra     | [[DGAC]]  | -
+
+
+{{page>dg-footer#Ghana}}

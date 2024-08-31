@@ -1,0 +1,10 @@
+===== Ghana =====
+----
+
+//This page is a subsection of the [[country:ghana|Ghana]] country page.//
+
+==== DGAA ====
+
+----
+
+[[airport:dgaa|DGAA]] (Lorem) | v0.1

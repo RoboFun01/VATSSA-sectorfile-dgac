@@ -1,0 +1,7 @@
+==== Benin Airspace ====
+
+^ ICAO  ^ Name  ^ SSA Code  ^ Type    ^ Remarks ^
+| DGAC  | Accra | [[DGAC]]  | -       | - |
+
+
+{{page>db-footer#Benin}}

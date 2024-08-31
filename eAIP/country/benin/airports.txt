@@ -1,0 +1,8 @@
+==== Benin Airports ====
+
+^ ICAO      ^ Name          ^ City          ^ Status        ^ Remarks ^
+| [[DBBB]]  | Name          | City          | In Development             | - |
+
+
+
+{{page>db-footer#Benin}}
