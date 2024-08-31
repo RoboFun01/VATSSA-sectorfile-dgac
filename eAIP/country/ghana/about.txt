@@ -1,0 +1,8 @@
+===== Ghana =====
+
+Ghana, officially the Republic of Ghana, is a country in West Africa. It abuts the Gulf of Guinea and the Atlantic Ocean to the south, sharing borders with [[ivory_coast|Ivory Coast]] in the west, Burkina Faso in the north, and [[togo|Togo]] in the east. Ghana covers an area of 238,535 km2 (92,099 sq mi), spanning diverse biomes that range from coastal savannas to tropical rainforests. With nearly 31 million inhabitants (according to the 2021 census), Ghana is the second-most populous country in West Africa, after [[nigeria|Nigeria]]. The capital and largest city is Accra; other major cities are Kumasi, Tamale, and Sekondi-Takoradi. 
+
+For more information, please visit [[https://en.wikipedia.org/wiki/Ghana|Wikipedia]].
+
+
+{{page>dg-footer#Ghana}}

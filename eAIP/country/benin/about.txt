@@ -1,0 +1,8 @@
+==== Benin Information ====
+
+Benin, officially the Republic of Benin, and formerly Dahomey, is a country in West Africa. It is bordered by [[togo|Togo]] to the west, [[nigeria|Nigeria]] to the east, Burkina Faso to the north-west, and Niger to the north-east. The majority of its population lives on the southern coastline of the Bight of Benin, part of the Gulf of Guinea in the northernmost tropical portion of the Atlantic Ocean. The capital is Porto-Novo, and the seat of government is in Cotonou, the most populous city and economic capital. Benin covers an area of 114,763 square kilometres (44,310 sq mi) and its population in 2021 was estimated to be approximately 13 million.
+
+For more information, please visit [[https://en.wikipedia.org/wiki/Benin|Wikipedia]].
+
+
+{{page>db-footer#Benin}}
