@@ -6,10 +6,11 @@
 *.pdf
 
 # Folder Exclusions
-DGAC/Alias/*
-DGAC/NavData/*
-DGAC/ICAO/*
-DGAC/Sounds/*
+DGAC/*
+Alias/*
+NavData/*
+ICAO/*
+Sounds/*
 
 # File Exclusions
 *aeronav_copyright.txt
