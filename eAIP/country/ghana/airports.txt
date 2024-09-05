@@ -1,0 +1,7 @@
+===== Ghana Airports =====
+
+^ ICAO      ^ Name                      ^ City          ^ Status             ^ Remarks ^
+| [[DGAA]]  | Kotoka Intl        | Accra   | //In Development// | - |
+
+
+{{page>dg-footer#Ghana}}

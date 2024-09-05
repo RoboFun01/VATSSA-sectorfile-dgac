@@ -13,13 +13,15 @@ The Accra FIR covers the entirety of Ghana's borders as well as Benin's and Togo
 
 ## Countries & Territories
 
-- Benin
-- Ghana
-- Togo
+- [Benin](https://eaip.vatssa.com/country/benin)
+- [Ghana](https://eaip.vatssa.com/country/ghana)
+- [Togo](https://eaip.vatssa.com/country/togo)
 
 ## Key Airports
 
-- DGAA |
+- DBBB | Cardinal Bernardin Gantin Intl (Cotonou, Benin)
+- DGAA | Kotoka Intl (Accra, Ghana)
+- DXXX | Gnassingbe Eyadema Intl (Lome, Togo)
 
 ## How to Contribute
 

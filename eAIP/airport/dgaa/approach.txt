@@ -1,0 +1,59 @@
+===== DGAA Approach =====
+
+==== Approach Tips ====
+
+==== Arrivals Procedures ====
+
+^ Rwy ^ Fix ^ Arrival ^ Type ^ Track Miles ^ Approach ^ Remarks ^
+| 03  | EREKA | EREK1A | RNAV | 69 nm | RNAV via NARVO | - |
+| ::: | KEMOK | KEMO1A | :::  | 66 nm | RNAV via NARAT | - |
+| ::: | MIMTI | MIMT1A | :::  | 50 nm | RNAV via NARAT | - |
+| 21  | EREKA | EREK1B | :::  | 52 nm | ILS or RNAV via AKMUS | - |
+| ::: | LITEX | LITE1B | :::  | 48 nm | ILS or RNAV via AKMUS | - |
+| ::: | DIRKO | DIRK1B | :::  | 77 nm | ILS or RNAV via AKMUS | - |
+| ::: | KEMOK | KEMO1B | :::  | 64 nm | ILS or RNAV via AKMUS | - |
+| ::: | MIMTI | MIMT1B | :::  | 75 nm | ILS or RNAV via AKMUS | - |
+
+==== Approach Procedures ====
+
+^ Rwy ^ Approach ^ Frequency ^ Course ^ GP Angle ^ IAF ^ Platform ^ Remarks ^
+| 03  | RNAV (GNSS) | - | 026º | 3.00º | ANOGA, NARAT or NARVO | 1900 ft | 3500 ft at NARAT or NARVO |
+| ::: | VOR Z | 113.10 ACC | 026º | 3.20º | 7.8 DME ACC | 1900 ft | - |
+| ::: | VOR Y | 113.10 ACC | 026º | 3.30º | 7.6 DME ACC | 1900 ft | - |
+| 21  | ILS | 109.90 IACA | 206º | 3.00º | D9 ACC | 2000 ft | - |
+| ::: | RNAV (GNSS) | - | 206º | 3.00º | KEDOS, AKMUS, MISPA or RASET | 1900 ft | 3900 ft at MISPA, AKMUS or RASET, 2300 ft at KEDOS |
+| ::: | VOR Z | 113.10 ACC | 206º | 3.00º | 4.3 DME ACC | 2000 ft | - |
+| ::: | VOR Y | 113.10 ACC | 206º | 3.00º | 4.3 DME ACC | - | - |
+
+==== Holds ====
+
+^ Name  ^ STAR ^ Altitude  ^ Speed (IAS) ^ Inbound CRS ^ Turn  ^ Leg Time ^ Remarks ^
+| APERI | -    | FL160 +   | 265 KT      | 249º        | Left  | 1 min    | - |
+| AGSAR | -    | FL090 +   | 240 KT      | 265º        | Right | 1 min    | - |
+| EDLAB | -    | FL090 +   | 240 KT      | 178º        | Right | 1 min    | - |
+| SENAN | -    | FL150 +   | 240 KT      | 134º        | Right | 1 min    | - |
+| RAVEX | -    | FL110 +   | 240 KT      | 099º        | Right | 1 min    | - |
+| DISNO | -    | FL110 +   | 240 KT      | 128º        | Left  | 1 min    | - |
+| APATI | -    | FL120 +   | 240 KT      | 088º        | Left  | 1 min    | - |
+| NARVO | -    | 3500 ft + | 230 KT      | 026º        | Right | 1 min    | RNAV RWY 03 |
+| RASET | -    | 3900 ft + | 230 KT      | 206º        | Left  | 1 min    | RNAV RWY 21 |
+| ACC   | -    | 3000 ft + | 210 KT      | 026º        | Right | 1 min    | ILS RWY 21 |
+
+
+==== Missed Approach Procedures ====
+
+
+
+==== MSA and MRVA ====
+
+^ Radio Aid ^ Min Distance ^ Max Distance ^ Radial From ^ Radial To ^ MSA ^ Remarks ^
+| ACC | 0 nm | 25 nm | 090º | 270º | 2100 ft | - |
+| ACC | 0 nm | 25 nm | 270º | 090º | 2900 ft | - |
+
+
+==== Diversions ====
+
+
+
+
+{{page>dg-footer#DGAA}}

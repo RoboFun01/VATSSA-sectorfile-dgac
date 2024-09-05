@@ -1,0 +1,21 @@
+===== DGAC Accra Flight Information Region =====
+
+  * The Accra FIR covers the entirety of [[Ghana]]'s borders as well as [[Benin]]'s and [[Togo]]'s. It is neighbored by [[GOOO|Dakar]] FIR in the West (as well as Dakar Oceanic), the Niamey FIR in the North, the [[DNKK|Kano]] and [[FCCC|Brazzaville]] in the East and [[FNANA|Luanda]] in the South.
+
+==== Airport Coverage ====
+
+Accra covers the following airports:
+
+=== Benin ===
+
+{{page>benin-airports#Benin Airports}}
+
+=== Ghana ===
+
+{{page>ghana-airports#Ghana Airports}}
+
+=== Togo ===
+
+{{page>togo-airports#Togo Airports}}
+
+{{page>dg-footer#DGAC}}
