@@ -1,10 +1,10 @@
 ===== Togo =====
 ----
 
-//This page is a subsection of the [[country:togo|Togo]] country page.//
+//This page is a subsection of the [[country:togo:home|Togo]] country page.//
 
 ==== DXXX ====
 
 ----
 
-[[airport:dxxx|DXXX]] (Lorem) | v0.1
+[[airport:dxxx:home|DXXX]] (Lorem) | v0.1

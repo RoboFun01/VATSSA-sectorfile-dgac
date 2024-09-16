@@ -1,10 +1,10 @@
 ==== Benin ====
 ----
 
-//This page is a subsection of the [[country:benin|Benin]] country page.//
+//This page is a subsection of the [[country:benin:home|Benin]] country page.//
 
 ==== DBBB ====
 
 ----
 
-[[airport:dbbb|DBBB]] (Lorem) | v0.1
+[[airport:dbbb:home|DBBB]] (Lorem) | v0.1
